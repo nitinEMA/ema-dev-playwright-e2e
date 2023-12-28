@@ -23,9 +23,9 @@ The purpose of this repository is to provide a comprehensive guide on initiating
 
 ## How to run end-to-end tests for ema-dev?
 
-1. Clone the repository to your local machine.
+1. Clone this repository to your local machine.
 2. Open `config.json` and input your credentials.
-3. Create a new Python class for your test, using `sampleChatTest.py` as a reference.
+3. Create a new Python class for your test. You may use `sampleChatTest.py` as a reference.
 4. Run `playwright codegen` in the terminal to generate code for your end-to-end test.
 5. In `main.py`, instantiate an object of your test class and execute the test.
 6. Before running `main.py`, update the oktaSignInCode in `config.json` with the latest code.
