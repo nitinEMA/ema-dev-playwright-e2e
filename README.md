@@ -1,6 +1,6 @@
 # End-to-End Testing with Playwright
 
-The purpose of this repository is to provide a comprehensive guide on initiating end-to-end testing for dev.ema.co using the Playwright testing framework.
+The purpose of this repository is to provide a comprehensive guide on initiating end-to-end testing for `dev.ema.co` using the Playwright testing framework.
 
 ## Setup
 
